@@ -1,0 +1,156 @@
+/*content*/
+.content {
+    padding: 1.49rem 0 1.09rem 0;
+}
+.content .top{
+    width: 100%;
+    height: 1.75rem;
+    background: url("../img/aboutus/top_img01.png")no-repeat center;
+    background-size: cover;
+}
+.content .top .text {
+    height: 100%;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    opacity: 1;
+    z-index: 10;
+}
+.content .top .text p{
+    color: #fff;
+    font-size: 0.25rem;
+    font-weight: bold;
+    padding: 0.77rem 0 0.75rem 0;
+}
+/*div1*/
+.content .div1{
+    width: 100%;
+    height: auto;
+}
+.content .div1 .div1_top {
+    text-align: center;
+    font-size: 0.42rem;
+    color: #006FB4;
+    padding: 0.9rem 0 0.21rem 0;
+}
+.content .div1 h1 img {
+    width: 0.6rem;
+    height: 0.58rem;
+    vertical-align: top;
+    margin-right: 0.57rem;
+}
+.content .div1 hr {
+    background-color: #006FB4;
+    margin-bottom: 0.45rem;
+    margin-left: 50%;
+}
+.content .div1 .box1, .box2, .box3, .box4{
+    width: 90%;
+    height: auto;
+    margin: 0 5% 0.12rem 5%;
+    padding-bottom: 0.5rem;
+    background-color: #F9F9F9;
+}
+.content .div1 .box1 p {
+    text-align: center;
+    padding: 0.36rem 0 0.23rem 0;
+}
+.content .div1 .box1 p img{
+    width: 0.49rem;
+    height: 0.37rem;
+}
+.content .div1 .box1 h1{
+    text-align: center;
+    font-size: 0.3rem;
+    font-weight: bold;
+    color: #DB2E03;
+    padding-bottom: 0.05rem;
+}
+.content .div1 .box1 hr{
+    margin-left: 42.5%;
+    background-color: #DB2E03;
+    margin-bottom: 0.36rem;
+}
+.content .div1 .box1 p:last-child{
+    padding: 0!important;
+    font-size: 0.24rem;
+}
+.content .div1 .box2 p {
+    text-align: center;
+    padding: 0.36rem 0 0.23rem 0;
+}
+.content .div1 .box2 p img{
+    width: 0.38rem;
+    height: 0.24rem;
+}
+.content .div1 .box2 h1{
+    text-align: center;
+    font-size: 0.3rem;
+    font-weight: bold;
+    color: #DB2E03;
+    padding-bottom: 0.05rem;
+}
+.content .div1 .box2 hr{
+    margin-left: 42.5%;
+    background-color: #DB2E03;
+    margin-bottom: 0.36rem;
+}
+.content .div1 .box2 p:last-child a{
+    padding: 0!important;
+    font-size: 0.24rem;
+    color: blue;
+}
+.content .div1 .box2 p:last-child{
+	color: #000;
+}
+
+.content .div1 .box3 .box3_top {
+    text-align: center;
+    padding: 0.36rem 0 0.23rem 0;
+}
+.content .div1 .box3 p img{
+    width: 0.37rem;
+    height: 0.36rem;
+}
+.content .div1 .box3 h1{
+    text-align: center;
+    font-size: 0.3rem;
+    font-weight: bold;
+    color: #DB2E03;
+    padding-bottom: 0.05rem;
+}
+.content .div1 .box3 hr{
+    margin-left: 42.5%;
+    background-color: #DB2E03;
+    margin-bottom: 0.36rem;
+}
+.content .div1 .box3 p{
+    text-align: center;
+    font-size: 0.22rem;
+    line-height: 0.4rem;
+}
+
+.content .div1 .box4 .box4_top{
+    text-align: center;
+    padding: 0.36rem 0 0.23rem 0;
+}
+.content .div1 .box4 p img{
+    width: 0.32rem;
+    height: 0.44rem;
+}
+.content .div1 .box4 h1{
+    text-align: center;
+    font-size: 0.3rem;
+    font-weight: bold;
+    color: #DB2E03;
+    padding-bottom: 0.05rem;
+}
+.content .div1 .box4 hr{
+    margin-left: 42.5%;
+    background-color: #DB2E03;
+    margin-bottom: 0.36rem;
+}
+.content .div1 .box4 p{
+    text-align: center;
+    font-size: 0.22rem;
+    line-height: 0.4rem;
+}

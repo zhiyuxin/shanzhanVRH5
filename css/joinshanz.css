@@ -1,0 +1,451 @@
+/*content*/
+.content {
+    padding-top: 1.49rem;
+}
+
+/*div1*/
+.content .div1 {
+    width: 100%;
+    height: 5.64rem;
+    background: url("../img/joinshanz/div1_img01.png") no-repeat center;
+    background-size: cover;
+    color: #fff;
+}
+
+.content .div1 .content {
+    width: 91%;
+    padding-top: 1.1rem;
+    margin-left: 5%;
+}
+
+.content .div1 .content p:nth-child(1) {
+    font-size: 0.29rem;
+    font-weight: bold;
+    color: #F5FE87;
+}
+
+.content .div1 .content p:nth-child(2) {
+    font-size: 0.35rem;
+    font-weight: bold;
+    color: #F5FE87;
+    padding: 0 0 0.66rem 0.3rem;
+}
+
+.content .div1 .content p:nth-child(3) {
+    font-size: 0.44rem;
+    letter-spacing: 0.05rem;
+}
+
+.content .div1 .content p:nth-child(4) {
+    font-size: 0.33rem!important;
+    margin: 0!important;
+}
+
+.content .div1 .content p .top {
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.content .div1 .content p .down {
+    font-size: 0.44rem;
+    font-weight: bold;
+}
+
+/*div2*/
+.content .div2 {
+    width: 100%;
+    height: 32.30rem;
+    /*padding-bottom: 0.9rem;*/
+}
+
+.content .div2 h1 {
+    text-align: center;
+    font-size: 0.42rem;
+    color: #FE0000;
+    padding: 0.9rem 0 0.21rem 0;
+}
+
+.content .div2 h1 img {
+    width: 0.6rem;
+    height: 0.58rem;
+    vertical-align: top;
+    margin-right: 0.6rem;
+
+}
+
+.content .div2 hr {
+    background-color: #FE0000;
+    margin-bottom: 0.48rem;
+    margin-left: 50%;
+}
+
+.content .div2 .top, .down {
+    line-height: 0.35rem;
+    width: 95%;
+    margin-left: 2.5%;
+    font-weight: normal!important;
+}
+
+.content .div2 .top h1 {
+    font-weight: bold;
+    text-align: left;
+    font-size: 0.27rem;
+    color: #000;
+    padding: 0 0 0.48rem 0;
+}
+
+.content .div2 .top p:nth-child(2) {
+    font-size: 0.25rem;
+}
+
+.content .div2 .top p:nth-child(3), p:nth-child(4) {
+    line-height: normal!important;
+    margin-top: 0.5rem;
+    font-size: 0.25rem!important;
+}
+
+.content .div2 .center {
+    width: 100%;
+    padding: 0.95rem 0 0.9rem 0;
+    margin: 0;
+}
+
+.content .div2 .down .down_1 h1 {
+    text-align: left;
+    font-size: 0.29rem;
+    color: #000;
+    padding: 0 0 0.48rem 0;
+}
+
+.content .div2 .down .down_1 p:nth-child(2) {
+    font-size: 0.25rem;
+    padding-bottom: 0.73rem;
+}
+
+.content .div2 .down .down_2 h1 {
+    text-align: left;
+    font-size: 0.29rem;
+    color: #000;
+    padding: 0 0 0.48rem 0;
+}
+
+.content .div2 .down .down_2 p:nth-child(2) {
+    font-size: 0.25rem;
+    padding-bottom: 1.30rem;
+}
+
+.content .div2 .bottom p {
+    text-align: center;
+    font-size: 0.29rem;
+    font-weight: bold;
+    line-height: 0.4rem;
+    color: #FF5A00;
+    padding: 0;
+}
+.content .div2 .bottom hr {
+    width: 1.71rem;
+    background-color: #F99021;
+    margin: 0.24rem auto 0.5rem auto!important;
+}
+.content .div2 .bottom .bottom_img{
+    width: 100%;
+}
+.content .div2 .bottom .bottom_img ul li{
+    width: 48%;
+    margin: 1%;
+    height: 3.45rem;
+    background-color: #F9F9F9;
+    float: left;
+    vertical-align: middle;
+    text-align: center;
+    display: table-cell;
+}
+.content .div2 .bottom .bottom_img ul li img{
+    width: 60%;
+    padding-top: 10%;
+}
+/*div3*/
+.content .div3 {
+    width: 100%;
+    height: 9.9rem;
+    padding-bottom: 0.9rem;
+}
+
+.content .div3 h1 {
+    text-align: center;
+    font-size: 0.42rem;
+    color: #FE0000;
+    padding: 0.9rem 0 0.21rem 0;
+}
+
+.content .div3 h1 img {
+    width: 0.6rem;
+    height: 0.58rem;
+    vertical-align: top;
+    margin-right: 0.6rem;
+
+}
+.content .div3 hr {
+    background-color: #FE0000;
+    margin-bottom: 0.48rem;
+    margin-left: 50%;
+}
+.content .div3 .top{
+    line-height: 0.40rem;
+    width: 95%;
+    margin-left: 2.5%;
+}
+.content .div3 .top p{
+    font-size: 0.25rem;
+    padding-bottom: 0.7rem;
+}
+.content .div3 img{
+    width: 95%;
+    margin: 0 2.5% 0 2.5%;
+}
+/*div4*/
+.content .div4 {
+    width: 100%;
+    height: 11.15rem;
+    background-color: #F4F4F4;
+    padding-bottom: 0.9rem;
+}
+.content .div4 h1 {
+    text-align: center;
+    font-size: 0.42rem;
+    color: #FE0000;
+    padding: 0.9rem 0 0.21rem 0;
+}
+
+.content .div4 h1 img {
+    width: 0.6rem;
+    height: 0.58rem;
+    vertical-align: top;
+    margin-right: 0.6rem;
+}
+.content .div4 hr {
+    background-color: #FE0000;
+    margin-bottom: 0.48rem;
+    margin-left: 50%;
+}
+.content .div4 .top{
+    line-height: 0.38rem;
+    width: 95%;
+    font-size: 0.25rem;
+    margin-left: 2.5%;
+}
+.content .div4 .top p{
+    padding: 0 0 0.54rem 0;
+    margin: 0!important;
+}
+.content .div4 .top p span{
+    font-size: 0.23rem;
+    font-weight: bold;
+    color: #000;
+}
+.content .div4 img{
+    width: 95%;
+    margin: 0 2.5% 0 2.5%;
+}
+/*div5*/
+.content .div5 {
+    width: 100%;
+    height: 11.5rem;
+    padding-bottom: 0.5rem;
+}
+.content .div5 h1 {
+    text-align: center;
+    font-size: 0.42rem;
+    color: #FE0000;
+    padding: 1.12rem 0 0.21rem 0;
+}
+
+.content .div5 h1 img {
+    width: 0.6rem;
+    height: 0.58rem;
+    vertical-align: top;
+    margin-right: 0.6rem;
+}
+.content .div5 hr {
+    background-color: #FE0000;
+    margin-bottom: 0.48rem;
+    margin-left: 50%;
+}
+.content .div5 .top{
+    font-size: 0.23rem;
+    text-align: center;
+    padding-bottom: 0.82rem;
+}
+.content .div5 .top p{
+    line-height: 0.38rem;
+}
+.content .div5 .div5_img{
+    width: 95%;
+    margin: 0 2.5% 0 2.5%;
+}
+/*div6*/
+.content .div6 {
+    width: 100%;
+    height: 17rem;
+    background-color: #F4F4F4;
+}
+.content .div6 h1 {
+    text-align: center;
+    font-size: 0.42rem;
+    color: #FE0000;
+    padding: 0.50rem 0 0.21rem 0;
+}
+
+.content .div6 h1 img {
+    width: 0.6rem;
+    height: 0.58rem;
+    vertical-align: top;
+    margin-right: 0.6rem;
+}
+.content .div6 hr {
+    background-color: #FE0000;
+    margin-bottom: 0.48rem;
+    margin-left: 50%;
+}
+.content .div6 .top{
+    font-size: 0.25rem;
+    text-align: center;
+    padding-bottom: 0.1rem;
+}
+.content .div6 .top p{
+    line-height: 0.38rem;
+}
+.content .div6 .bottom {
+    position: relative;
+}
+.content .div6 .bottom div {
+    box-shadow: 0.01rem 0.01rem 0.05rem #888888;
+    width: 90%;
+    margin: 5% 5% 0.48rem 5%;
+}
+.content .div6 .bottom img.icon {
+    width: 5%!important;
+    position: absolute;
+    left: 33px;
+    margin-top: 14px;
+}
+.content .div6 .bottom img {
+    width: 100%;
+}
+.content .div6 .bottom p {
+    text-align: center;
+    line-height: 0.78rem;
+    font-size: 0.32rem;
+    color: #323232;
+    height: 0.78rem;
+}
+/*div7*/
+.content .div7 {
+    width: 100%;
+    height: 14.46rem;
+    padding-top: 0.68rem;
+    padding-bottom: 0.87rem;
+}
+.content .div7 .text_1{
+    width: 95%;
+    margin: 0 2.5% 1rem 2.5%;
+}
+.content .div7 .text_1 h1{
+    font-size: 0.48rem;
+    font-weight: bold;
+    color: #FA9022;
+    padding-bottom: 0.5rem;
+}
+.content .div7 .text_1 li{
+    display: block;
+    font-size: 0.28rem;
+    padding-bottom: 0.2rem;
+}
+.content .div7 .text_1 li img{
+    vertical-align: middle;
+}
+.content .div7 .text_1 li span{
+    padding-left: 0.2rem;
+}
+.content .div7 .text_2{
+    width: 95%;
+    margin: 0 2.5% 1rem 2.5%;
+}
+.content .div7 .text_2 h1{
+    font-size: 0.48rem;
+    font-weight: bold;
+    color: #FA9022;
+    padding-bottom: 0.6rem;
+}
+.content .div7 .text_2 p{
+    font-size: 0.3rem;
+    line-height: 0.42rem;
+    padding-bottom: 0.32rem;
+    /*letter-spacing: 0.01rem;*/
+}
+.content .div7 .text_2 li{
+    width: 40%;
+    float: left;
+    display: block;
+    font-size: 0.28rem;
+    padding-bottom: 0.2rem;
+}
+.content .div7 .text_2 li img{
+    vertical-align: middle;
+}
+.content .div7 .text_2 li span{
+    padding-left: 0.2rem;
+}
+
+.content .div7 .text_3{
+    width: 95%;
+    margin: 0 2.5% 1.15rem 2.5%;
+}
+.content .div7 .text_3 h1{
+    font-size: 0.48rem;
+    font-weight: bold;
+    color: #FA9022;
+    padding-bottom: 0.4rem;
+}
+.content .div7 .text_3 p:nth-child(2){
+    font-size: 0.28rem;
+    line-height: 0.39rem;
+    padding-bottom: 0.64rem;
+    /*letter-spacing: 0.01rem;*/
+}
+.content .div7 .text_3 p.tel{
+	font-size: 0.25rem;
+}
+.content .div7 .text_3 p:nth-child(3), p:nth-child(4){
+    line-height: 0.5rem;
+    padding-top: 0!important;
+    
+}
+
+/*div8*/
+.content .div8 {
+    width: 100%;
+    height: 9.95rem;
+    background-color: #F4F4F4;
+    padding-bottom: 1rem;
+}
+.content .div8 h1 {
+    text-align: center;
+    font-size: 0.45rem;
+    font-weight: bold;
+    color: #FE0000;
+    padding: 0.87rem 0 0.42rem 0;
+}
+.content .div8 .text{
+    padding-bottom: 0.82rem;
+}
+.content .div8 .text p {
+    text-align: center;
+    line-height: 0.44rem;
+    font-size: 0.23rem;
+}
+.content .div8 img {
+    width: 80%;
+    margin: 0 10% 0 10%;
+}

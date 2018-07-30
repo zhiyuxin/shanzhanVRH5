@@ -1,0 +1,258 @@
+/*内容*/
+#content{
+    width: 100%;
+    height: auto;
+    padding-top: 2.14rem;
+}
+/*div1*/
+#content .div1{
+    width: 100%;
+    height: 6.38rem;
+}
+#content .div1 h1{
+    text-align: center;
+    font-size: 0.43rem;
+    font-weight: bold;
+    color: #013BAF;
+    padding-bottom: 0.32rem;
+}
+#content .div1 p{
+    text-align: center;
+    line-height: 0.4rem;
+    font-size: 0.27rem;
+    color: #808080;
+}
+#content .div1 .bottom{
+    margin-top: 0.77rem;
+}
+#content .div1 .bottom ul{
+    width: 100%;
+    padding: 0.1rem 0;
+    /*border-bottom: 0.01rem solid #aaa;*/
+    text-align: center;
+}
+#content .div1 .bottom ul li{
+    width: 25%;
+    float: left;
+}
+#content .div1 .bottom ul li img{
+    width: 80%;
+}
+#content .div1 .bottom ul li p{
+    padding-top: 0.32rem;
+    font-size: 0.24rem;
+}
+#content .div1 .bottom ul li .img_1{
+    color: #014F1E;
+}
+#content .div1 .bottom ul li .img_2{
+    color: #523400;
+}
+#content .div1 .bottom ul li .img_3{
+    color: #011C45;
+}
+#content .div1 .bottom ul li .img_4{
+    color: #3B0267;
+}
+/*div2*/
+#content .div2{
+    width: 100%;
+    height: 5.7rem;
+    position: relative;
+    background-color: #013BAF;
+}
+#content .div2 .div2_top {
+    width: 5.45rem;
+    height: 0.63rem;
+    background-color: #fff;
+    text-align: center;
+    margin-top: 0.6rem;
+    position: absolute;
+    left: 50%;
+    margin-left: -2.725rem;
+    border-radius: 0.5rem;
+}
+#content .div2 .div2_top h1{
+    line-height: 0.7rem;
+    font-size: 0.46rem;
+    font-weight: bold;
+    color: #013BAF;
+}
+#content .div2 .div2_center{
+    padding-top: 1.64rem;
+    margin-bottom: 0.67rem;
+}
+#content .div2 .div2_center p{
+    text-align: center;
+    line-height: 0.4rem;
+    font-size: 0.27rem;
+    color: #F0F0F0;
+}
+#content .div2 .div2_bottom p{
+    line-height: 0.4rem;
+    text-indent: 2em;
+    color: #FDFE92;
+    padding: 0 0.2rem 0 0.2rem;
+    letter-spacing: 0.02rem;
+    font-size: 0.25rem;
+}
+/*div3*/
+#content .div3{
+    width: 100%;
+    height: 6.78rem;
+    position: relative;
+    /*background-color: yellow;*/
+}
+#content .div3 h1{
+    text-align: center;
+    font-size: 0.46rem;
+    font-weight: bold;
+    color: #013BAF;
+    padding: 1rem 0 0.68rem 0;
+}
+#content .div3 ul{
+    width: 100%;
+
+}
+#content .div3 ul li{
+    width: 31%;
+    float: left;
+    padding: 0 0 0.24rem 0.14rem;
+    position: relative;
+}
+#content .div3 ul li a{
+    display: block;
+    width: 100%;
+}
+#content .div3 ul li a img{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+#content .div3 ul li a p{
+    font-size: 0.27rem;
+    color: #fff;
+    position: absolute;
+    left: 1rem;
+    top: 0.2rem;
+}
+#content .div3 ul li a p.len{
+    left: 0.7rem;
+}
+/*div4*/
+#content .div4{
+    width: 100%;
+    height: 11.3rem;
+    position: relative;
+    background-color: #013BAF;
+}
+#content .div4 .div4_top {
+    width: 5.45rem;
+    height: 0.63rem;
+    background-color: #fff;
+    text-align: center;
+    margin-top: 0.6rem;
+    position: absolute;
+    left: 50%;
+    margin-left: -2.725rem;
+    border-radius: 0.5rem;
+}
+#content .div4 .div4_top h1{
+    line-height: 0.7rem;
+    font-size: 0.46rem;
+    font-weight: bold;
+    color: #013BAF;
+}
+#content .div4 .div4_center{
+    padding-top: 1.64rem;
+
+}
+#content .div4 .div4_center p{
+    line-height: 0.4rem;
+    text-indent: 2em;
+    color: #fff;
+    padding: 0 0.2rem 0 0.2rem;
+    letter-spacing: 0.02rem;
+    font-size: 0.27rem;
+    margin-bottom: 0.63rem;
+}
+#content .div4 .div4_bottom{
+    padding-top: 0.52rem;
+    text-align: center;
+}
+#content .div4 .div4_bottom img{
+    width: 80%;
+}
+/*div5*/
+#content .div5{
+    width: 100%;
+    height: 16.80rem;
+    margin-top: 1.3rem;
+    padding-bottom: 0.375rem;
+}
+#content .div5 h1{
+    text-align: center;
+    font-size: 0.43rem;
+    font-weight: bold;
+    color: #013BAF;
+    padding-bottom: 0.32rem;
+}
+#content .div5 p{
+    text-align: center;
+    line-height: 0.35rem;
+    font-size: 0.27rem;
+    color: #808080;
+}
+#content .div5 .bottom{
+    margin-top: 0.77rem;
+}
+#content .div5 .bottom div{
+    box-shadow: 0.01rem 0.01rem 0.05rem #888888;
+    width: 90%;
+    margin: 5% 5% 0.46rem 5%;
+}
+#content .div5 .bottom img{
+    width: 100%;
+}
+#content .div5 .bottom p {
+    text-align: center;
+    line-height: 0.78rem;
+    font-size: 0.32rem;
+    color: #323232;
+    height: 0.78rem;
+}
+
+/*div7*/
+#content .div7{
+    width: 100%;
+    height: 5.50rem;
+    margin-bottom: 2.5rem;
+}
+#content .div7 h1{
+    padding: 1rem 0 0.77rem 0;
+    text-align: center;
+    font-size: 0.43rem;
+    color: #013BAF;
+}
+#content .div7 .cooperation ul{
+    width: 100%;
+}
+#content .div7 .cooperation ul li {
+    width: 33%;
+    float: left;
+    position: relative;
+    text-align: center;
+    height: 0.97rem;
+    line-height: 0.48rem;
+    margin-bottom: 0.5rem;
+    vertical-align: middle;
+
+}
+#content .div7 .cooperation ul li img {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 0.48rem;
+    vertical-align: middle;
+    display: inline;
+
+}

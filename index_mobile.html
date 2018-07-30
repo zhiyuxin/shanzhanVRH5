@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    window.onload = function () {
+        browserRedirect();
+    };
+    function GetQueryStringParams(sParam) {
+        var sPageURL = window.location.search.substring(1);
+        console.log(sPageURL);
+        var sURLVariables = sPageURL.split('&');
+        for (var i = 0; i < sURLVariables.length; i++) {
+            var sParameterName = sURLVariables[i].split('=');
+            if (sParameterName[0] == sParam) {
+                return sParameterName[1];
+            }
+        }
+    }
+
+    var tech = GetQueryStringParams('mz_ca');
+    var tech2 = GetQueryStringParams('mz_sp');
+
+    function browserRedirect() {
+        var sUserAgent = navigator.userAgent.toLowerCase();
+        var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
+        var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+        var bIsMidp = sUserAgent.match(/midp/i) == "midp";
+        var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+        var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
+        var bIsAndroid = sUserAgent.match(/android/i) == "android";
+        var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
+        var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
+        if (!(bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM)) {
+            if (typeof tech == "undefined" && typeof tech2 == "undefined") {
+                window.location.href = './pc/index.html?fid=online';
+            } else {
+                window.location.href = './pc/index.html?fid=online';
+            }
+
+        } else {
+            if (typeof tech == "undefined" && typeof tech2 == "undefined") {
+                window.location.href = 'index.html?fid=online';
+            } else {
+                window.location.href = 'index.html?fid=online';
+            }
+        }
+    }
+</script>
+</body>
+</html>

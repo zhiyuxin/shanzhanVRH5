@@ -1,0 +1,160 @@
+/*content*/
+.content{
+    padding-top: 1.49rem;
+}
+/*div1*/
+.content .div1{
+    width: 100%;
+    height: 6rem;
+    background: url("../img/customdeve/div1_img01.png")no-repeat left;
+    background-size: cover;
+    font-weight: bold;
+}
+.content .div1 h1 {
+    text-align: center;
+    font-size: 0.43rem;
+    color: #F4FF7C;
+    padding: 1.25rem 0 0.33rem 0;
+}
+.content .div1 p{
+    text-align: center;
+    font-size: 0.31rem;
+}
+.content .div1 p:nth-child(2) {
+    font-size: 0.31rem;
+    color: #97EEFF;
+    padding-bottom: 0.6rem;
+}
+.content .div1 p:nth-child(3) span{
+    font-size: 0.43rem;
+    color: #F8FE38;
+}
+.content .div1 p:nth-child(3), p:nth-child(4) {
+    font-size: 0.37rem;
+    color: #fff;
+    padding-bottom: 0.33rem;
+}
+/*div2*/
+.content .div2{
+    width: 95%;
+    height: 4.8rem;
+    margin: 0 2.5% 0 2.5%;
+}
+.content .div2 h1 {
+    text-align: center;
+    font-size: 0.42rem;
+    color: #000;
+    padding: 0.94rem 0 0.22rem 0;
+}
+.content .div2 hr{
+    background-color: #009BFF;
+}
+.content .div2 p{
+    text-indent: 2em;
+    line-height: 0.34rem;
+    font-size: 0.27rem;
+    color: #000;
+}
+.content .div2 p:nth-child(4){
+    color: #000;
+    padding-top: 0.6rem;
+    font-weight: bold;
+    font-size: 0.27rem;
+    text-decoration:underline
+}
+/*div3*/
+.content .div3{
+    width: 100%;
+    height: 17rem;
+    background-color: #F6F6F6;
+    position: relative;
+}
+.content .div3 h1 {
+    text-align: center;
+    font-size: 0.42rem;
+    color: #000;
+    padding: 0.35rem 0 0.22rem 0;
+}
+.content .div3 hr{
+    background-color: #009BFF;
+    margin-bottom: 0.6rem;
+}
+.content .div3 .div3_1{
+    width: 100%;
+    height: 3.7rem;
+    background: url("../img/customdeve/div3_img01.png")no-repeat center;
+    background-size: cover;
+}
+.content .div3 .div3_2{
+    width: 100%;
+    height: 3.7rem;
+    background: url("../img/customdeve/div3_img02.png")no-repeat center;
+    background-size: cover;
+}
+.content .div3 .div3_3{
+    width: 100%;
+    height: 3.7rem;
+    background: url("../img/customdeve/div3_img03.png")no-repeat center;
+    background-size: cover;
+}
+.content .div3 .div3_4{
+    width: 100%;
+    height: 3.7rem;
+    background: url("../img/customdeve/div3_img04.png")no-repeat center;
+    background-size: cover;
+}
+.content .div3 .text{
+    height: 100%;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    opacity:1;
+    z-index:10;
+}
+.content .div3 .text p:nth-child(1){
+    color: #fff;
+    font-size: 0.36rem;
+    font-weight: bold;
+    padding: 1.25rem 0 0.27rem 0;
+}
+.content .div3 .text p:nth-child(2),p:nth-child(3),p:nth-child(4){
+    font-size: 0.26rem;
+    color: #fff;
+    line-height: 0.42rem;
+}
+/*div4*/
+.content .div4{
+    width: 100%;
+    height: 42.65rem;
+}
+.content .div4 h1 {
+    text-align: center;
+    font-size: 0.42rem;
+    color: #000;
+    padding: 0.35rem 0 0.22rem 0;
+}
+.content .div4 hr{
+    background-color: #009BFF;
+    margin-bottom: 0.62rem;
+}
+.content .div4 img{
+    width: 100%;
+}
+/*div5*/
+.content .div5{
+    width: 100%;
+    height: 10.5rem;
+    text-align: center;
+}
+.content .div5 h1 {
+    text-align: center;
+    font-size: 0.42rem;
+    color: #000;
+    padding: 0.3rem 0 0.21rem 0;
+}
+.content .div5 hr{
+    background-color: #009BFF;
+    margin-bottom: 0.59rem;
+}
+.content .div5 img{
+    width: 95%;
+}

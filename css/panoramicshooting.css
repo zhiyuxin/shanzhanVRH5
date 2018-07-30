@@ -1,0 +1,322 @@
+/*内容*/
+/*顶部*/
+.content{
+    padding-top: 1.49rem;
+}
+.content .top{
+    width: 100%;
+    height: 2.02rem;
+    background-color: #009AD9;
+    /*line-height: 0.63rem;*/
+}
+.content .top p{
+    font-size: 0.39rem;
+    text-align: center;
+    color: #fff;
+}
+.content .top p:nth-child(1){
+    padding-top: 0.65rem;
+    letter-spacing: 0.02rem;
+}
+.content .top p:nth-child(2){
+    transform: scale(1, 0.5);
+    font-size: 0.19rem;
+}
+.content .top p:nth-child(3){
+    margin-top: 0.17rem;
+}
+.content .top p img{
+    width: 0.4rem;
+    height: 0.22rem;
+    text-align: center;
+    display: block;
+    margin-left: 47%;
+}
+/*div1*/
+.content .div1{
+    width: 100%;
+    height: 10rem;
+    padding-top: 0.6rem;
+}
+.content .div1 span{
+    color: #013BAF;
+    font-weight: bold;
+}
+.content .div1 h1{
+    text-align: center;
+    font-size: 0.43rem;
+    color: #000;
+    padding-bottom: 0.21rem;
+}
+.content .div1 p{
+    text-align: center;
+    line-height: 0.35rem;
+    font-size: 0.26rem;
+    color: #808080;
+}
+.content .div1 .bottom{
+    margin-top: 0.77rem;
+}
+.content .div1 .bottom ul{
+    width: 100%;
+    padding: 0.1rem 0;
+    /*border-bottom: 0.01rem solid #aaa;*/
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.content .div1 .bottom ul li{
+    float: left;
+}
+.content .div1 .bottom ul li img{
+    width: 80%;
+}
+.content .div1 .bottom ul li:nth-child(1) img{
+    margin-left: 0.92rem;
+}
+.content .div1 .bottom ul li:nth-child(2) img{
+    margin-right: 0.92rem;
+}
+/*div2*/
+.content .div2{
+    width: 100%;
+    height: 8.86rem;
+    padding-top: 0.6rem;
+    background-color: #013BAF;
+}
+.content .div2 span{
+    color: #F6FF00;
+    font-weight: bold;
+}
+.content .div2 h1{
+    text-align: center;
+    font-size: 0.43rem;
+    color: #fff;
+    padding-bottom: 0.32rem;
+}
+.content .div2 p{
+    text-align: center;
+    line-height: 0.35rem;
+    font-size: 0.27rem;
+    color: #fff;
+}
+.content .div2 .bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.82rem;
+}
+.content .div2 .bottom img{
+    width: 95%;
+}
+/*div3*/
+.content .div3{
+    width: 100%;
+    height: 8.86rem;
+    padding-top: 0.6rem;
+}
+.content .div3 span{
+    color: #013BAF;
+    font-weight: bold;
+}
+.content .div3 h1{
+    text-align: center;
+    font-size: 0.43rem;
+    color: #000;
+    padding-bottom: 0.32rem;
+}
+.content .div3 p{
+    text-align: center;
+    line-height: 0.35rem;
+    font-size: 0.26rem;
+    color: #808080;
+}
+.content .div3 .bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.82rem;
+}
+.content .div3 .bottom img{
+    width: 95%;
+}
+/*div4*/
+.content .div4{
+    width: 100%;
+    height: 8.86rem;
+    padding-top: 0.6rem;
+    background-color: #013BAF;
+}
+.content .div4 span{
+    color: #F6FF00;
+    font-weight: bold;
+}
+.content .div4 h1{
+    text-align: center;
+    font-size: 0.43rem;
+    color: #fff;
+    padding-bottom: 0.32rem;
+}
+.content .div4 p{
+    text-align: center;
+    line-height: 0.35rem;
+    font-size: 0.27rem;
+    color: #fff;
+}
+.content .div4 .bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.82rem;
+}
+.content .div4 .bottom img{
+    width: 95%;
+}
+/*center*/
+.content{
+    padding-top: 1.49rem;
+}
+.content .center{
+    width: 100%;
+    height: 2.25rem;
+    background-color: #009AD9;
+    margin: 0;
+    float: none;
+}
+.content .center p{
+    font-size: 0.39rem;
+    text-align: center;
+    color: #fff;
+}
+.content .center p span{
+    color: #EAFF00;
+}
+.content .center p:nth-child(1){
+    padding-top: 0.34rem;
+    letter-spacing: 0.02rem;
+}
+.content .center p:nth-child(3){
+    transform: scale(1, 0.5);
+    font-size: 0.19rem;
+}
+.content .center p:nth-child(3){
+    margin: 0.1rem 0 0.1rem 0;
+}
+.content .center p img{
+    width: 0.4rem;
+    height: 0.22rem;
+    text-align: center;
+    display: block;
+    margin-left: 47%;
+}
+/*div5*/
+.content .div5{
+    width: 100%;
+    height: 15.39rem;
+}
+.content .div5 .icon ul{
+    /*width: 100%;*/
+    padding-top: 0.54rem;
+    margin-left: 0.1rem;
+}
+.content .div5 .icon ul li{
+    width: 2.24rem;
+    height: 1.56rem;
+    border: 1px solid #ccc;
+    float: left;
+    margin: 0 0 0.17rem 0.12rem;
+}
+.content .div5 .icon ul li img{
+    width: auto;
+    height: 0.85rem;
+    display: block;
+    margin: 0.25rem auto 0 auto;
+}
+.content .div5 .icon ul li span{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size: 0.2rem;
+    /*letter-spacing: -0.02rem;*/
+}
+/*div6*/
+.content .div6{
+    width: 100%;
+    height: 4.67rem;
+    background: url("../img/panoramicshooting/div6_img01.png")no-repeat;
+    background-size: cover;
+}
+.content .div6 h1{
+    text-align: center;
+    font-size: 0.40rem;
+    font-weight: bold;
+    color: #fff;
+    padding: 1.28rem 0 0.45rem 0;
+}
+.content .div6 p{
+    text-align: center;
+    line-height: 0.57rem;
+    font-size: 0.32rem;
+    color: #F7FF6C;
+}
+/*div7*/
+.content .div7{
+    width: 100%;
+    height: 4rem;
+    background-color: #1D948E;
+}
+.content .div7 img{
+    width: 90%;
+    padding: 0.27rem 0 0.22rem 0.38rem;
+}
+/*div8*/
+.content .div8{
+    width: 100%;
+    height: 4rem;
+    background-color: #4B55C4;
+}
+.content .div8 img{
+    width: 90%;
+    padding: 0.27rem 0 0.22rem 0.38rem;
+}
+
+/*div9*/
+.content .div9{
+    width: 100%;
+    height: 19.97rem;
+    background-color: #fff;
+}
+.content .div9 h1{
+    text-align: center;
+    font-size: 0.43rem;
+    color: #000;
+    padding: 0.75rem 0 0.32rem 0;
+}
+.content .div9 hr{
+    margin-bottom: 0.5rem;
+}
+.content .div9 .comm_h{
+    margin: 0 auto 0.13rem auto;
+}
+.content .div9 .comm_h a{
+    display: block;
+    width: 6.84rem;
+    height: 3.96rem;
+    margin: 0 auto 0.13rem auto;
+}
+.content .div9 .div9_1{
+    background: url("../img/panoramicshooting/div9_img01.jpg")no-repeat;
+    background-size: cover;
+}
+.content .div9 .div9_2{
+    background: url("../img/panoramicshooting/div9_img02.jpg")no-repeat;
+    background-size: cover;
+}
+.content .div9 .div9_3{
+    background: url("../img/panoramicshooting/div9_img03.jpg")no-repeat;
+    background-size: cover;
+}
+.content .div9 .div9_4{
+    background: url("../img/panoramicshooting/div9_img04.jpg")no-repeat;
+    background-size: cover;
+}

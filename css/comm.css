@@ -1,0 +1,115 @@
+html{
+    font-size: 100px;
+}
+body{
+    font-size: 0.12rem;
+    width: 100%;
+    max-width: 7.5rem;
+    min-width: 3.2rem;
+    margin: 0 auto;
+}
+.clearfix::before,
+.clearfix::after{
+    content: '.';
+    height: 0;
+    line-height: 0;
+    display: block; /*出错点*/
+    visibility: hidden;
+    clear: both;
+}
+/*公用*/
+hr{
+    width: 1.02rem;
+    height: 0.02rem;
+    margin: 0 auto 0.35rem auto;
+    background-color: #D7D8D8;
+    border: none;
+}
+/*头部*/
+.fix_head {
+    position: fixed;
+    width: 7.5rem;
+    height: 1.49rem;
+    background: #1F1F21;
+    letter-spacing: 0.05rem;
+    z-index: 99;
+}
+.fix_head .back {
+    display: block;
+    float: left;
+    margin-top: 0.65rem;
+    margin-left: 0.3rem;
+}
+.fix_head .back img{
+	float: left;
+}
+.fix_head .left {
+    float: left;
+    font-size: 0.33rem!important;
+    color: #fff;
+    margin: 0.06rem 0 0 0.2rem;
+}
+.fix_head .center {
+    float: left;
+    font-size: 0.33rem!important;
+    color: #fff;
+    margin: 0.7rem 0 0 1.3rem;
+}
+/*底部*/
+#foot {
+    float: left;
+    position: fixed;
+    bottom: 0;
+}
+#foot .left{
+    width: 3.7rem;
+    height: 1.09rem;
+    float: left;
+    background: url("../img/icon/img_7.png") no-repeat;
+    background-size: cover;
+}
+#foot .right{
+    width: 3.7rem;
+    height: 1.09rem;
+    float: left;
+    margin-left: 0.1rem;
+    background: url("../img/icon/img_8.png")no-repeat;
+    background-size: cover;
+}
+a {
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+    -webkit-user-select: none;
+    -moz-user-focus: none;
+    -moz-user-select: none;
+}
+a,a:hover,a:active,a:visited,a:link,a:focus{
+    -webkit-tap-highlight-color:rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
+    outline:none;
+    background: none;
+    text-decoration: none;
+}
+::selection {
+    background: #FFF;
+    color: #333;
+}
+::-moz-selection {
+    background: #FFF;
+    color: #333;
+}
+::-webkit-selection {
+    background: #FFF;
+    color: #333;
+}
+-webkit-tap-highlight-color:rgba(0,0,0,0);
+img {
+    -webkit-tap-highlight-color:rgba(0,0,0,0);
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+    -webkit-user-select: none;
+    -moz-user-focus: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+html{
+	font-size: 0.33rem;
+}
